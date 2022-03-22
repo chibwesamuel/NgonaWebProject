@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "orign"]
+	url = https://github.com/chibwesamuel/Ng-onaWebProject.git
+	fetch = +refs/heads/*:refs/remotes/orign/*
+[remote "origin"]
+	url = https://github.com/chibwesamuel/NgonaWebProject.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
